@@ -1,0 +1,14 @@
+name: HungerGames
+author: LegendeBente
+main: dk.legendebente.hungergames.HungerGames
+version: 1.0
+softdepend:
+  - HolographicDisplays
+commands:
+  hungergames:
+    usage: /<command>
+    aliases:
+      - hg
+    permission-message: §cDu har ikke adgang til dette!
+    permission: hg.admin
+    description: Hungergames admin kommando
