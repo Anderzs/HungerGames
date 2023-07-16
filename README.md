@@ -1,2 +1,2 @@
 # HungerGames
-HungerGames plugin (Under udvikling)
+HungerGames plugin til Minecraft
